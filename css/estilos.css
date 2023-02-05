@@ -87,14 +87,41 @@ body {
     align-items: center;
 }
 
-.banner {
-    background-image: url("https://www.berry.net/mex/wp-content/uploads/sites/2/2013/02/company.jpg");
+.img-banner-jumbotron {
     width: 50%;
-    height: 72%;
-    float: right;
-    background-repeat: no-repeat;
-    background-position: -7em 1cm ;
-}
+    height: 50%;
+    margin: 20px !important;
+    object-fit: cover;
+  }
+  
+  .container-jumbotron {
+    width: 100%;
+    margin: 20px !important;
+  }
+  
+  .container-jumbotron .title {
+    margin: 0 0 20px 0 !important;
+  }
+  
+  .container-jumbotron .paragraph {
+    margin: 0 0 20px 0 !important;
+  }
+  
+  .container-jumbotron .berries {
+    margin: 0 0 20px 0 !important;
+  }
+  
+  .container-jumbotron .paragraph-berries {
+    margin: 0 0 20px 0 !important;
+  }
+  
+  .container-jumbotron .buy {
+    margin: 0 0 20px 0 !important;
+  }
+  
+  .container-jumbotron .email-form {
+    margin: 0 0 20px 0 !important;
+  }
 
 
 .contenedor{
