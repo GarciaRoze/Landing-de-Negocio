@@ -44,6 +44,7 @@ a h2{
     color: rgb(199, 199, 209);
 }
 header {
+    width: 100%;
     display: flex;
     flex-direction: column row;
     min-height: 70px;
