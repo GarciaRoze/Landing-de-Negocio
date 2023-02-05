@@ -400,6 +400,12 @@ button{
         justify-content: center;
         margin: 40px !important;
       }
+      
+.pie{
+    background-color: #f5303d;
+    height: 100%;
+    width: 100%;
+}
     
 }
 
